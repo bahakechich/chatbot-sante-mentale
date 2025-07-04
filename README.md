@@ -19,7 +19,7 @@ avec une base de documents vectorisée pour fournir des réponses précises, fia
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/mon-projet/chatbot-sante-mentale.git
+git clone https://github.com/bahakechich/chatbot-sante-mentale.git
 cd chatbot-sante-mentale
 python -m venv venv
 .env\Scriptsctivate
